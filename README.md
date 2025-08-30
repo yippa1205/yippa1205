@@ -6,7 +6,7 @@
 
 - **🔭 I’m currently working on** ... application deployment on AWS
 - **🌱 I’m currently learning** ... GitHub, CICD and AWS Security
-- **⚡ Fun fact:** Love bushing around Sydney and watch golf/tennis tournaments
+- **⚡ Fun fact:** Love bush walking and watch golf/tennis tournaments
   <!--
 - 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ... 
